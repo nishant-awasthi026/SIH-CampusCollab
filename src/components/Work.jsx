@@ -84,7 +84,7 @@ const Work = () => {
     <div className="w-full mt-20">
       <div className="relative max-w-screen-xl mx-auto text-center">
         <h1 className="text-[30vw] leading-none font-medium select-none tracking-tight">
-          work
+          Campus Collab
         </h1>
       </div>
       <div className="absolute top-0 w-full h-full">
@@ -103,7 +103,7 @@ const Work = () => {
       </div>
 
       <p className="text-center py-4 font-normal text-lg text-[#919191]">
-        Web Design, Webflow Development, Creative Development
+        Collaborate on Projects, Discover Talent, and Engage With Clubs.
       </p>
     </div>
   );
