@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="flex items-center">
         <img
           src="src="../assets/logo.png"
-          alt="refokus_logo"
+          alt=="collage-collab-logo"
         />
 
         <div className="flex gap-12 ml-24">
