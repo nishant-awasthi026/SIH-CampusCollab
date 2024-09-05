@@ -121,30 +121,30 @@ import { motion } from "framer-motion";
 const Products = () => {
   const products = [
     {
-      title: "arqitel",
+      title: "Aarzoo",
       description:
-        "With a continuous 3D animation, we showcase Arqitel approach and show how migration data translates into real estate.",
+        "This is a platform for all nukkad natak enthusiasts and theatre lovers to learn, explore, manage, and perform the beautiful art of stage play.",
       live: true,
       case: false,
     },
     {
-      title: "cula",
+      title: "Magan",
       description:
-        "We immersed ourselves in a 3D world we created to explain how Cula's platform collects data from carbon removal processes and converts them into carbon credit certificates.",
+        "This is a confluence of the musicians from the various states of India to come together and share their passions in instrumental and vocal music.",
       live: true,
       case: true,
     },
     {
-      title: "layout land",
+      title: "Kalamgiri",
       description:
-        "An interactive learning game that can educate and entertain you on the basics of web layouts in Webflow.",
+        "This provides a platform for the students to write, discuss, and hold debates to stimulate their brains in the literary arts.",
       live: true,
       case: false,
     },
     {
-      title: "TTR",
+      title: "GDSC",
       description:
-        "We've created an interactive site using generative AI to allow users to engage with our thinking about Ai, industry trends and design.",
+        "Google Developer Student Club (GDSC) is a Google Developers program for university students to learn mobile and web development skills.",
       live: true,
       case: false,
     },
