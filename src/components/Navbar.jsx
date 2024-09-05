@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="max-w-screen-xl mx-auto py-6 flex justify-between items-center border-b border-b-zinc-700">
       <div className="flex items-center">
         <img
-          src="src="../assets/logo.png"
+          src="../assets/logo.png"
           alt=="collage-collab-logo"
         />
 
