@@ -10,7 +10,7 @@ const Cards = () => {
           start={false}
           para={true}
           heading="Up Next: News"
-          text="Insights and behind the scenes"
+          text="Insights and behind the SRM Clubs"
           team="Explore what drives our team"
         />
         <Card
